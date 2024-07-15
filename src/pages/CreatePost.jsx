@@ -38,7 +38,7 @@ const generateImage = async () => {
       setGeneratingImg(false);
     }
   }else{
-    alert('Please a ssahbi enter a prompt')
+    alert('Please a sssahbi enter a prompt')
   }
 }
 
